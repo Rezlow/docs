@@ -29,7 +29,8 @@
 
 <h2>92 Deepwood</h2>
 <p><ol>
-  <li>Fix Dishwasher</li>
+  <li>Apply for Deck Permit</li>
+  <li>~~Fix Dishwasher~~</li>
   <li>Install Trim</li>
   <li>Finish Bathrooms</li>
     <ol>
