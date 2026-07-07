@@ -4,14 +4,14 @@
 <h2>Admininstration</h2>
 
 <p><ol>
-  <li>2026 Q1 HST</li>
-  <li>2026 Q2 HST</li>
+  <li>~~2026 Q1 HST~~</li>
+  <li>~~2026 Q2 HST~~</li>
   <li>2025 Taxes</li>
     <ol>
       <li>Brysin's Disability</li>
     </ol>
   <li>Kelly's Disability</li>
-  <li>Review Cell Phone Plans</li>
+  <li>~~Review Cell Phone Plans~~</li>
   <li>Review Insurrance Plans</li>
   <li>Switch Car Insurrance to Yearly</li>
 </ol></p>
